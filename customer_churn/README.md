@@ -7,3 +7,4 @@ https://drive.google.com/drive/folders/1EpLYPD52Ctckrph7kkYOjtlJGLDpcQC_?usp=dri
 ### Kaggle score: 0.76825 (first entry)
 
 Сеть представленна тремя слоями нейронов на PyTorch. Пайплайн обработки данных реализован с помощью Sklearn
+Прогресс обучения нейросети отслеживается через прогрессбар tqdm
