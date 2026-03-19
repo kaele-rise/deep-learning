@@ -4,9 +4,16 @@
 ### Google Colab:
 https://drive.google.com/drive/folders/1EpLYPD52Ctckrph7kkYOjtlJGLDpcQC_?usp=drive_link
 
-### Kaggle score: 0.76825 (first entry)
+### Kaggle score: 0.78535
 
-Сеть представленна тремя слоями нейронов на PyTorch. 
+### Параметры модели:
+Сеть представленна двумя слоями нейронов на PyTorch.
+Ф-ция активации: ReLU
+Оптимизатор: RMSprop, lerning rate:0.01, weight_decay=0.001
+Loss-функция: BCEWithLogitsLoss
+Кол-во эпох: 4
+
+
 
 Пайплайн обработки данных реализован с помощью Sklearn.
 
