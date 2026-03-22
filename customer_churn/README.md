@@ -4,7 +4,7 @@
 ### Google Colab:
 https://drive.google.com/drive/folders/1EpLYPD52Ctckrph7kkYOjtlJGLDpcQC_?usp=drive_link
 
-### Kaggle score: 0.78535
+### Kaggle score: 0.78868
 
 ### Параметры модели:
 Сеть представленна двумя слоями нейронов на PyTorch.
@@ -14,6 +14,8 @@ https://drive.google.com/drive/folders/1EpLYPD52Ctckrph7kkYOjtlJGLDpcQC_?usp=dri
 Оптимизатор: RMSprop, lerning rate:0.01, weight_decay=0.001
 
 Loss-функция: BCEWithLogitsLoss
+
+Batch Normalization
 
 Кол-во эпох: 4
 
